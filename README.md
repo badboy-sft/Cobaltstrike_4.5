@@ -8,6 +8,6 @@ First git clone the repo
 
 then download the jar file
 
-``` wget https://drive.google.com/file/d/12fxDnHyLxrfKJWFMd2-s9oOL0oKMDWrO/view?usp=sharing ```
+``` REDACTED ```
 
 everything is good to go
